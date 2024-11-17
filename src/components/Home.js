@@ -15,16 +15,43 @@ function Home() {
       <Section
         title="Model Y"
         description="Order Online for Touchless Delivery"
-        backgroundImg="model-s.jpg"
+        backgroundImg="model-y.jpg"
         leftBtnText="Custom order"
         RightBtnText="Exisitng Inventory"
       />
      <Section
-        title="Model X"
+        title="Model 3"
         description="Order Online for Touchless Delivery"
-        backgroundImg="model-s.jpg"
+        backgroundImg="model-3.jpg"
         leftBtnText="Custom order"
         RightBtnText="Exisitng Inventory"
+      />
+      <Section
+        title="Model X"
+        description="Order Online for Touchless Delivery"
+        backgroundImg="model-x.jpg"
+        leftBtnText="Custom order"
+        RightBtnText="Exisitng Inventory"
+      />
+      <Section
+        title="Lowest Cost Solar Panels is America"
+        description="Money Back Guarantee"
+        backgroundImg="solar-panel.jpg"
+        leftBtnText="Order Now"
+        RightBtnText="Learn More"
+      />
+      <Section
+        title="Solar for New Roofs"
+        description="Solar Roof Costs Less Than a New Roof Plus Solar Panels"
+        backgroundImg="solar-roof.jpg"
+        leftBtnText="Order Now"
+        RightBtnText="Learn More"
+      />
+       <Section
+        title="Accessories"
+        description=""
+        backgroundImg="accessories.jpg"
+        leftBtnText="Shop Now"
       />
     </Container>
   )
